@@ -1,3 +1,7 @@
+Erarbeitet mit Marcus Chvatal, Alex Babakhel und Kevser Akpinar.
+
+https://github.com/Zeljko-S/NewsreaderDownloader
+
 # NewsreaderStarterExercise4
 
 ## Important!
